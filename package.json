@@ -1,0 +1,19 @@
+{
+  "name": "turndownforwhatjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tdfw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickstew/turndownforwhatjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickstew/turndownforwhatjs/issues"
+  },
+  "homepage": "https://github.com/nickstew/turndownforwhatjs#readme"
+}
